@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Subramanian
-- 🌱 I’m currently learning flutter
+- 🌱 I’m a flutter developer
 - 📫 How to reach me subramanianramamurthi@gmail.com
 
